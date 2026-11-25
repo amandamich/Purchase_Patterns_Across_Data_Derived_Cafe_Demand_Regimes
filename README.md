@@ -22,7 +22,7 @@ The analysis follows these steps:
 |------|-------------|
 | Purchase Patterns_Across_Data_Derived_Café_Demand_Regimes.ipynb | Main notebook containing data preparation, demand analysis, pattern mining, and visualizations. |
 
-> The transaction dataset is included in this repository.
+> The transaction dataset is not included in this repository.
 
 ## Technologies
 
